@@ -1,3 +1,6 @@
 [submodule "lenage.github.com"]
 	path = lenage.github.com
 	url = git://github.com/lenage/lenage.github.com.git
+[submodule "saberma.github.com"]
+	path = saberma.github.com
+	url = git://github.com/saberma/saberma.github.com.git
