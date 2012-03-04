@@ -4,3 +4,6 @@
 [submodule "saberma.github.com"]
 	path = saberma.github.com
 	url = git://github.com/saberma/saberma.github.com.git
+[submodule "elfjs.github.com"]
+	path = elfjs.github.com
+	url = git://github.com/elfjs/elfjs.github.com.git
