@@ -10,3 +10,6 @@
 [submodule "mytharcher.github.com"]
 	path = mytharcher.github.com
 	url = https://github.com/mytharcher/mytharcher.github.com.git
+[submodule "jingyuan.github.com"]
+	path = jingyuan.github.com
+	url = https://github.com/jingyuan/jingyuan.github.com.git
