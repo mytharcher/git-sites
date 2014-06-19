@@ -13,3 +13,6 @@
 [submodule "jingyuan.github.com"]
 	path = jingyuan.github.com
 	url = https://github.com/jingyuan/jingyuan.github.com.git
+[submodule "pizn.github.com"]
+	path = pizn.github.com
+	url = git@github.com:pizn/pizn.github.com.git
